@@ -1,6 +1,6 @@
 {
   "name": "pcf8574",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "PCF8574/PCF8574A I²C 8-bit I/O expander blocks for micro:bit. Read/Write pins, button helpers (to GND), LED helpers.",
   "license": "MIT",
   "dependencies": {
